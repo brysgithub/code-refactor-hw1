@@ -1,2 +1,2 @@
 # code-refactor-hw1
-Version 6e4452e finally has working css
+Refactor code to improve it
